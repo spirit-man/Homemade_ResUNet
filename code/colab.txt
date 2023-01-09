@@ -1,0 +1,14 @@
+from google.colab import drive
+drive.mount('/content/drive')
+
+import os
+os.chdir("")
+
+!pwd
+
+python main.py --data-path "..\..\dataset"
+
+%reload_ext tensorboard
+%tensorboard --logdir ".\runs"
+
+
