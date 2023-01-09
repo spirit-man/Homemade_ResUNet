@@ -1,0 +1,459 @@
+[epoch: 0]
+train_loss: 0.4858
+lr: 0.100000
+val_loss: 0.6497
+val_accuracy: 0.6035
+val_F1_score: 0.6399
+val_MIoU: 0.4291
+
+
+[epoch: 1]
+train_loss: 0.4220
+lr: 0.100000
+val_loss: 0.8241
+val_accuracy: 0.5060
+val_F1_score: 0.5066
+val_MIoU: 0.3387
+
+
+[epoch: 2]
+train_loss: 0.4204
+lr: 0.100000
+val_loss: 0.7569
+val_accuracy: 0.5113
+val_F1_score: 0.5122
+val_MIoU: 0.3434
+
+
+[epoch: 3]
+train_loss: 0.4051
+lr: 0.100000
+val_loss: 1.0672
+val_accuracy: 0.2709
+val_F1_score: 0.0436
+val_MIoU: 0.1404
+
+
+[epoch: 4]
+train_loss: 0.3778
+lr: 0.100000
+val_loss: 0.6469
+val_accuracy: 0.6436
+val_F1_score: 0.6871
+val_MIoU: 0.4689
+
+
+[epoch: 5]
+train_loss: 0.3873
+lr: 0.100000
+val_loss: 0.3645
+val_accuracy: 0.8976
+val_F1_score: 0.9282
+val_MIoU: 0.7816
+
+
+[epoch: 6]
+train_loss: 0.3805
+lr: 0.100000
+val_loss: 0.7544
+val_accuracy: 0.5923
+val_F1_score: 0.6242
+val_MIoU: 0.4186
+
+
+[epoch: 7]
+train_loss: 0.3746
+lr: 0.100000
+val_loss: 0.6222
+val_accuracy: 0.6294
+val_F1_score: 0.6695
+val_MIoU: 0.4550
+
+
+[epoch: 8]
+train_loss: 0.3756
+lr: 0.100000
+val_loss: 0.4679
+val_accuracy: 0.7995
+val_F1_score: 0.8453
+val_MIoU: 0.6444
+
+
+[epoch: 9]
+train_loss: 0.3679
+lr: 0.100000
+val_loss: 0.4514
+val_accuracy: 0.7832
+val_F1_score: 0.8307
+val_MIoU: 0.6237
+
+
+[epoch: 10]
+train_loss: 0.3565
+lr: 0.100000
+val_loss: 0.6288
+val_accuracy: 0.6843
+val_F1_score: 0.7317
+val_MIoU: 0.5112
+
+
+[epoch: 11]
+train_loss: 0.3556
+lr: 0.100000
+val_loss: 0.4750
+val_accuracy: 0.7343
+val_F1_score: 0.7845
+val_MIoU: 0.5655
+
+
+[epoch: 12]
+train_loss: 0.3574
+lr: 0.100000
+val_loss: 0.4503
+val_accuracy: 0.7744
+val_F1_score: 0.8229
+val_MIoU: 0.6125
+
+
+[epoch: 13]
+train_loss: 0.3565
+lr: 0.100000
+val_loss: 0.4485
+val_accuracy: 0.7662
+val_F1_score: 0.8145
+val_MIoU: 0.6033
+
+
+[epoch: 14]
+train_loss: 0.3563
+lr: 0.100000
+val_loss: 0.4025
+val_accuracy: 0.8298
+val_F1_score: 0.8748
+val_MIoU: 0.6787
+
+
+[epoch: 15]
+train_loss: 0.3560
+lr: 0.100000
+val_loss: 0.5018
+val_accuracy: 0.7234
+val_F1_score: 0.7743
+val_MIoU: 0.5526
+
+
+[epoch: 16]
+train_loss: 0.3454
+lr: 0.100000
+val_loss: 0.6161
+val_accuracy: 0.6573
+val_F1_score: 0.7047
+val_MIoU: 0.4822
+
+
+[epoch: 17]
+train_loss: 0.3497
+lr: 0.100000
+val_loss: 0.4211
+val_accuracy: 0.8027
+val_F1_score: 0.8481
+val_MIoU: 0.6485
+
+
+[epoch: 18]
+train_loss: 0.3452
+lr: 0.100000
+val_loss: 0.5752
+val_accuracy: 0.6889
+val_F1_score: 0.7427
+val_MIoU: 0.5130
+
+
+[epoch: 19]
+train_loss: 0.3515
+lr: 0.100000
+val_loss: 0.5328
+val_accuracy: 0.7169
+val_F1_score: 0.7695
+val_MIoU: 0.5443
+
+
+[epoch: 20]
+train_loss: 0.3463
+lr: 0.100000
+val_loss: 0.7039
+val_accuracy: 0.6248
+val_F1_score: 0.6701
+val_MIoU: 0.4489
+
+
+[epoch: 21]
+train_loss: 0.3304
+lr: 0.100000
+val_loss: 0.4161
+val_accuracy: 0.8015
+val_F1_score: 0.8475
+val_MIoU: 0.6462
+
+
+[epoch: 22]
+train_loss: 0.3422
+lr: 0.100000
+val_loss: 0.8116
+val_accuracy: 0.5330
+val_F1_score: 0.5443
+val_MIoU: 0.3632
+
+
+[epoch: 23]
+train_loss: 0.3338
+lr: 0.100000
+val_loss: 0.3628
+val_accuracy: 0.8426
+val_F1_score: 0.8855
+val_MIoU: 0.6963
+
+
+[epoch: 24]
+train_loss: 0.3355
+lr: 0.100000
+val_loss: 0.5412
+val_accuracy: 0.7842
+val_F1_score: 0.8321
+val_MIoU: 0.6244
+
+
+[epoch: 25]
+train_loss: 0.3359
+lr: 0.100000
+val_loss: 0.6556
+val_accuracy: 0.6433
+val_F1_score: 0.6923
+val_MIoU: 0.4668
+
+
+[epoch: 26]
+train_loss: 0.3317
+lr: 0.100000
+val_loss: 0.1848
+val_accuracy: 0.9399
+val_F1_score: 0.9132
+val_MIoU: 0.8762
+
+
+[epoch: 27]
+train_loss: 0.3436
+lr: 0.100000
+val_loss: 0.1062
+val_accuracy: 0.9833
+val_F1_score: 0.9734
+val_MIoU: 0.9621
+
+
+[epoch: 28]
+train_loss: 0.3260
+lr: 0.100000
+val_loss: 0.1304
+val_accuracy: 0.9857
+val_F1_score: 0.9777
+val_MIoU: 0.9678
+
+
+[epoch: 29]
+train_loss: 0.3348
+lr: 0.100000
+val_loss: 0.1789
+val_accuracy: 0.9385
+val_F1_score: 0.8937
+val_MIoU: 0.8625
+
+
+[epoch: 30]
+train_loss: 0.3355
+lr: 0.100000
+val_loss: 0.1110
+val_accuracy: 0.9797
+val_F1_score: 0.9673
+val_MIoU: 0.9539
+
+
+[epoch: 31]
+train_loss: 0.3263
+lr: 0.100000
+val_loss: 0.1065
+val_accuracy: 0.9835
+val_F1_score: 0.9738
+val_MIoU: 0.9626
+
+
+[epoch: 32]
+train_loss: 0.3328
+lr: 0.100000
+val_loss: 0.1398
+val_accuracy: 0.9820
+val_F1_score: 0.9715
+val_MIoU: 0.9593
+
+
+[epoch: 33]
+train_loss: 0.3358
+lr: 0.100000
+val_loss: 0.1924
+val_accuracy: 0.9156
+val_F1_score: 0.8479
+val_MIoU: 0.8129
+
+
+[epoch: 34]
+train_loss: 0.3321
+lr: 0.100000
+val_loss: 0.1216
+val_accuracy: 0.9870
+val_F1_score: 0.9795
+val_MIoU: 0.9705
+
+
+[epoch: 35]
+train_loss: 0.3295
+lr: 0.100000
+val_loss: 0.1290
+val_accuracy: 0.9772
+val_F1_score: 0.9634
+val_MIoU: 0.9484
+
+
+[epoch: 36]
+train_loss: 0.3256
+lr: 0.100000
+val_loss: 0.1296
+val_accuracy: 0.9581
+val_F1_score: 0.9299
+val_MIoU: 0.9054
+
+
+[epoch: 37]
+train_loss: 0.3285
+lr: 0.100000
+val_loss: 0.1544
+val_accuracy: 0.9766
+val_F1_score: 0.9622
+val_MIoU: 0.9470
+
+
+[epoch: 38]
+train_loss: 0.3311
+lr: 0.100000
+val_loss: 0.1234
+val_accuracy: 0.9790
+val_F1_score: 0.9663
+val_MIoU: 0.9524
+
+
+[epoch: 39]
+train_loss: 0.3251
+lr: 0.100000
+val_loss: 0.0980
+val_accuracy: 0.9874
+val_F1_score: 0.9801
+val_MIoU: 0.9713
+
+
+[epoch: 40]
+train_loss: 0.3151
+lr: 0.100000
+val_loss: 0.1307
+val_accuracy: 0.9842
+val_F1_score: 0.9749
+val_MIoU: 0.9641
+
+
+[epoch: 41]
+train_loss: 0.3305
+lr: 0.100000
+val_loss: 0.1195
+val_accuracy: 0.9816
+val_F1_score: 0.9710
+val_MIoU: 0.9586
+
+
+[epoch: 42]
+train_loss: 0.3193
+lr: 0.100000
+val_loss: 0.1402
+val_accuracy: 0.9358
+val_F1_score: 0.8887
+val_MIoU: 0.8567
+
+
+[epoch: 43]
+train_loss: 0.3178
+lr: 0.100000
+val_loss: 0.1387
+val_accuracy: 0.9278
+val_F1_score: 0.8728
+val_MIoU: 0.8391
+
+
+[epoch: 44]
+train_loss: 0.3168
+lr: 0.100000
+val_loss: 0.1016
+val_accuracy: 0.9848
+val_F1_score: 0.9759
+val_MIoU: 0.9655
+
+
+[epoch: 45]
+train_loss: 0.3209
+lr: 0.100000
+val_loss: 0.1219
+val_accuracy: 0.9809
+val_F1_score: 0.9696
+val_MIoU: 0.9567
+
+
+[epoch: 46]
+train_loss: 0.3147
+lr: 0.100000
+val_loss: 0.1104
+val_accuracy: 0.9802
+val_F1_score: 0.9682
+val_MIoU: 0.9550
+
+
+[epoch: 47]
+train_loss: 0.3248
+lr: 0.100000
+val_loss: 0.1112
+val_accuracy: 0.9858
+val_F1_score: 0.9774
+val_MIoU: 0.9676
+
+
+[epoch: 48]
+train_loss: 0.3130
+lr: 0.100000
+val_loss: 0.1168
+val_accuracy: 0.9683
+val_F1_score: 0.9478
+val_MIoU: 0.9281
+
+
+[epoch: 49]
+train_loss: 0.3158
+lr: 0.100000
+val_loss: 0.1839
+val_accuracy: 0.8993
+val_F1_score: 0.8127
+val_MIoU: 0.7778
+
+
+[epoch: 50]
+train_loss: 0.3206
+lr: 0.100000
+val_loss: 0.1521
+val_accuracy: 0.9316
+val_F1_score: 0.8801
+val_MIoU: 0.8473
+
+
