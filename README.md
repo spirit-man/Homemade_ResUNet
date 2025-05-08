@@ -1,4 +1,4 @@
 # Homemade_ResUNet
-ResUNet wrote for 3S course, personal part. (Still have problems)
+Implemented a ResUNet, used for Shanghai University Students Innovation and Entrepreneurship Training Program "Fine-grained Sea Ice Concentration Retrieval Using Deep Learning Super-Resolution Models" and 3S course(personal part).
 
 See README in code/README.md
